@@ -46,6 +46,12 @@ article section {
   word-wrap: break-word;
   flex-direction: column;
 }
+article div {
+  width: 1px;
+  height: 50%;
+  background-color: hsl(0, 0%, 59%);
+  opacity: 0.5;
+}
 section p {
   color: hsl(0, 0%, 59%);
   font-size: 10px;

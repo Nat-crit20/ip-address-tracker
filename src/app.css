@@ -28,6 +28,14 @@ form {
 #ip-search {
   width: 400px;
   height: 2.5rem;
+  cursor: pointer;
+}
+#basic-addon2 {
+  cursor: pointer;
+  background-color: hsl(0, 0%, 17%);
+}
+#basic-addon2:hover {
+  background-color: hsl(0, 0%, 59%);
 }
 
 article {

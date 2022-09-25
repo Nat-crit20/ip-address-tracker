@@ -5,8 +5,13 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   attribution: "© OpenStreetMap",
 }).addTo(map);
+let customIcon = L.icon({
+  iconUrl: "../images/icon-location.svg",
+  iconAnchor: [22, 94],
+  popupAnchor: [-3, -76],
+});
 
-var marker = L.marker([51.5, -0.09]).addTo(map);
+var marker = L.marker([51.5, -0.09], { icon: customIcon }).addTo(map);
 
 //ip search
 async function postData(url = "") {

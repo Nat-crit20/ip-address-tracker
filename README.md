@@ -24,7 +24,7 @@ Users should be able to:
 
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements on the page
-- See their own IP address on the map on the initial page load
+- See their IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://val7997.github.io/ip-address-tracker/](https://val7997.github.io/ip-address-tracker/)
+- Live Site URL: [https://Nat-crit20.github.io/ip-address-tracker/](https://Nat-crit20.github.io/ip-address-tracker/)
 
 ## My process
 
@@ -48,12 +48,12 @@ Users should be able to:
 
 ### What I learned
 
-For this I learned how to use the leaflet api and the ip geoloctaion api; as well as reinforce my knownledge in asyc functions. I also learned how to take the incoming calls from one api and used that to call the next api. I also only used a little bootstrap for the search bar.
+For this I learned how to use the leaflet API and the IP geolocation API; as well as reinforced my knowledge of async functions. I also learned how to take incoming calls from one API and use that to call the next API. I also only used a little bootstrap for the search bar.
 
 ### Continued development
 
-I hope to find a way to add abbrivations to the timezones. As well as to find way in which more errors can occur and find was to solve them
+I hope to find a way to add abbreviations to the time zones. As well as to find ways in which more errors can occur and find ways to solve them
 
 ## Author
 
-- Frontend Mentor - [@Val7997](https://www.frontendmentor.io/profile/Val7997)
+- Frontend Mentor - [@Nat-crit20](https://www.frontendmentor.io/profile/Nat-crit20)
